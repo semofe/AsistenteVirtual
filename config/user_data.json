@@ -1,0 +1,15 @@
+{
+  "nombre": "Sergio",
+  "preferencias": {
+    "estilo_respuesta": "directo y breve",
+    "idioma": "es"
+  },
+  "aplicaciones_frecuentes": {
+    "editor_codigo": "code",
+    "navegador": "chrome"
+  },
+  "rutinas": {
+    "hora de trabajo": ["editor_codigo", "navegador"]
+  },
+  "datos_clave": []
+}

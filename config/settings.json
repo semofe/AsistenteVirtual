@@ -1,0 +1,18 @@
+{
+  "active_provider": "gemini",
+  "providers": {
+    "gemini": {
+      "model_name": "gemini-3.6-flash",
+      "api_key": ""
+    },
+    "openai": {
+      "model_name": "gpt-4o-mini",
+      "api_key": ""
+    },
+    "local": {
+      "model_name": "llama3.1",
+      "host": "",
+      "supports_tools": true
+    }
+  }
+}
